@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    size: 25px;
+}
+h2{
+   background-color: rgb(30, 30, 252);
+}
+p.tamañoperfecto{
+    size: 15px;
+
+}
+aside{
+    background-color: rgb(0, 255, 242);
+}
+body{
+    background-color: rgb(183, 184, 179);
+}
+footer{
+    color: yellow;
+    text-align: center;
+    font-family: cursive;
+}
